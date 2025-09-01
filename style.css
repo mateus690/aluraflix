@@ -1,15 +1,15 @@
 body {
-    color: rgb(0, 0, 0);
-    background: rgb(245, 245, 245);
+    color: rgb(214, 210, 233);
+    background: rgb(255, 255, 255);
     margin: 0px;
     font-family: "Chakra Petch", sans-serif;
 }
 
 header{
-    border-bottom: solid 2px rgb(0, 0, 0);
+    border-bottom: solid 2px rgb(221, 226, 216);
     padding: 20px;
     font-size:32px;
-    color: rgb(255, 255, 255)
+    color: rgb(0, 0, 0)
 }
 section {
     background: rgb(0, 0, 0);
