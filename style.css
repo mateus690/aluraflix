@@ -11,6 +11,7 @@ header{
     font-size:32px;
     color: rgb(0, 0, 0)
 }
+
 section {
     background: rgb(0, 0, 0);
     padding-bottom: 80px;
@@ -18,7 +19,6 @@ section {
     display: flex;
     justify-content: center;
 }
-
 .chamada-texto {
     margin-right: 5%;
 }
@@ -28,11 +28,7 @@ h1 {
 }
 
 p {
-    font-size: 25px;
-}
-
-img {
-    height: 200px;
+    font-size: 20px;
 }
 
 .categoria-videos {
@@ -41,7 +37,17 @@ img {
     gap: 10px;
 }
 
-section {
+.categoria {
     padding-left: 20px;
     padding-right: 20px;
+    margin-top: 50px;
+}
+
+.categoria-videos img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.categoria-videos img:hover {
+    opacity: 1.0;
 }
